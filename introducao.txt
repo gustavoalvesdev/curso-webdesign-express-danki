@@ -1,0 +1,19 @@
+Introdução ao Curso
+
+O que você vai aprender?
+
+- HTML5
+- CSS3
+- Design Responsivo
+- Ferramentas de alta produtividade
+- Domínio e Hospedagem
+- Criar sites profissionais.
+
+Como estudar?
+- Assista as aulas com calma e a mente limpa. 
+- Sempre use o sistema de suporte da Danki Code para tirar qualquer dúvida! 
+- Sempre procure praticar.
+
+Arquivos e materiais
+- Você pode baixar os metariais das aulas, que geralmente ficam na primeira ou última aula do módulo.
+- Procure baixar antes para servir como consulta durante as aulas quando estiver realizando exercícios práticos.
