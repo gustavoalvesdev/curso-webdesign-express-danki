@@ -1,0 +1,19 @@
+Como você vai aprender?
+
+- Teoria (10%).
+- Prática (90%).
+
+Teoria
+
+- Introdução do Web Design / Conceitos.
+- Evolução da web.
+- HTML5
+- CSS3
+- Responsivo
+
+Prática
+
+- HTML5
+- CSS3
+- Responsivo
+- Projeto Prático
